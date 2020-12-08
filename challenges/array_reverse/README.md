@@ -3,7 +3,7 @@
 
 ## reverseArray
 
-*Authors: Bhagirath Bhatt & Robert Carter*
+*Authors: Bhagirath Bhatt and Robert Carter*
 
 ---
 
