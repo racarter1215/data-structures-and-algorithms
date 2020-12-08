@@ -40,7 +40,7 @@ A Python implementation of a `Reverse Arrayt`. Reverse arrays are utilized to ma
   
   
 ## Visuals
-![Whiteboard Image](../../assets/Python code challenge whiteboard.png)
+![Whiteboard Image](../../assets/whiteboard.png)
 
 
 
