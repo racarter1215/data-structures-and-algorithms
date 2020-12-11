@@ -47,7 +47,7 @@ A Python implementation of an "`Array Shift`. Array shifts are utilized to manip
   
   
 ## Visuals
-![Whiteboard Image](../assets/whiteboard.png)
+![Whiteboard Image](./assets/whiteboard.png)
 
 
 
