@@ -3,3 +3,7 @@
 ## Table of Contents
 
 ### ReverseArray
+
+### SearchArray
+
+### BinarySearch
