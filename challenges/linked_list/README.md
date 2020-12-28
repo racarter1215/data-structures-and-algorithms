@@ -77,7 +77,7 @@ A Python implementation of a "`Linked List`. Linked Lists are collections of nod
   
   
 ## Visuals
-![Whiteboard Image](./assets/whiteboard.png)
+![Whiteboard Image](./assets/whiteboard1.png)
 
 
 
